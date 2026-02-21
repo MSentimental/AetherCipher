@@ -1,2 +1,5 @@
-# OracleCipher
-Oracle Cipher - mathematically built upon SHA-256.
+# AtherCipher
+
+- By MSentimental - built in one day
+  
+Aether Cipher - mathematically built upon SHA-256.
