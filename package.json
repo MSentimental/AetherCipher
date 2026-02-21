@@ -1,0 +1,8 @@
+"autoupdate": {
+  "source": "git",
+  "target": "git://github.com/msentimental/AetherCipher.git",
+  "fileMap": [{
+    "basePath": "build",
+    "files": ["aethercipher.min.js"]
+  }]
+}
