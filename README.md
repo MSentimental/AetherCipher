@@ -1,4 +1,4 @@
-# AtherCipher
+# AetherCipher
 
 - By MSentimental - built in one day
   
