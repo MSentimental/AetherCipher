@@ -4,9 +4,12 @@
   
 Aether Cipher, Aether Hash, and Aether Warp - mathematically built upon SHA-256 and SHA-512.
 
-**Aether Cipher**: Personal encryption use or user-provided key encryption.\n
-**Aether Hash**: Educational hash with SHA-2 inspired algorithms.\n
+**Aether Cipher**: Personal encryption use or user-provided key encryption.
+
+**Aether Hash**: Educational hash with SHA-2 inspired algorithms.
+
 **Aether Warp**: Built on top of Aether Hash with a different algorithm and a faster delivery speed (estimated 20MB/s up to 200MB/s).
+
 
 ## 📊 Parameters for AetherCipher
 
