@@ -1,10 +1,10 @@
-# AetherCipher
+# AETHERCIPHER
 
 - By MSentimental - built in one day
   
-Aether Cipher - mathematically built upon SHA-256.
+Aether Cipher - mathematically built upon SHA-256 and SHA-512.
 
-## Parameters
+## 📊 Parameters
 
 | Parameter | Value |
 |-----------|-------|
@@ -16,3 +16,5 @@ Aether Cipher - mathematically built upon SHA-256.
 | **Authentication** | 64-bit tag |
 | **Avalanche** | ~49.7-50.1% |
 | **Key Stretching** | 100 iterations |
+
+### ⚠️ Warning: AetherCipher, AetherHash, and AetherWarp all have not been stress tested or verified. Use with caution.
