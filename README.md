@@ -1,8 +1,8 @@
 # AetherCipher
 
 - By MSentimental (@msentimental) - built in two days
-  
-Aether Cipher, Aether Hash, and Aether Warp - mathematically built upon SHA-256 and SHA-512.
+- Mathematically built upon SHA-256 and SHA-512.
+
 
 **Aether Cipher**: Personal encryption use or user-provided key encryption.
 
