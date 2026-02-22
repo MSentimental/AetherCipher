@@ -54,10 +54,10 @@ Aether Cipher, Aether Hash, and Aether Warp - mathematically built upon SHA-256 
 
 | Property | Measurement |
 |----------|-------------|
-| **Avalanche Effect** | ~50% (ideal) |
+| **Avalanche Effect** | ~47% |
 | **Collision Resistance** | 2^128 |
 | **Pre-image Resistance** | 2^256 |
 | **Second Pre-image** | 2^256 |
 | **Randomness** | Passes Diehard tests |
 
-### ⚠️ Warning: AetherCipher, AetherHash, and AetherWarp all have not been stress tested or verified. Use with caution.
+### ⚠️ Warning: AetherCipher, AetherHash, and AetherWarp all have not been stress tested or verified. Use with caution. Data has not been verified. All data are estimated values without professional analysis.
