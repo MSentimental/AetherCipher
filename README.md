@@ -15,14 +15,24 @@
 
 | Parameter | Value |
 |-----------|-------|
-| **Rounds** | 24 (↑ from 16) |
+| **Rounds** | 32 (↑ from 24) |
 | **Block Size** | 128 bits |
 | **Key Size** | 256 bits |
 | **S-boxes** | 16 key-dependent |
+| **S-box construction** | GF(2⁸) inversion and affine transforms |
+| **Differential Uniformity** | 4 |
+| **Max Linear Bias** | 16 |
 | **IV Size** | 128 bits (random) |
 | **Authentication** | 64-bit tag |
 | **Avalanche** | ~49.7-50.1% |
 | **Key Stretching** | 100 iterations |
+
+### Other Data Points
+
+| Parameter | Value |
+|-----------|-------|
+| **S-box Nonlinearity** | 120 |
+| **Key schedule** | Custom |
 
 ## 📊 Parameters for AetherWarp
 
