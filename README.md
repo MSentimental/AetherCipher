@@ -15,7 +15,7 @@
 
 | Parameter | Value |
 |-----------|-------|
-| **Rounds** | 32 (↑ from 24) |
+| **Rounds** | 32 (↑ from 24) SPN |
 | **Block Size** | 128 bits |
 | **Key Size** | 256 bits |
 | **S-boxes** | 16 key-dependent |
